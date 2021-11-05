@@ -1,2 +1,2 @@
 # warpblades
-VR Game where your swords teleport
+VR game where your swords teleport
